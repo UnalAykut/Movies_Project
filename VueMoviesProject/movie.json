@@ -1,0 +1,693 @@
+{
+    "movies": [
+      {
+        "name": "X-Man The Last Stand",
+        "slug": "esaret1",
+        "image": "images/xmen.jpg",
+        "id": 1,
+        "description": "X-Men ekibi önemli bir yol ayrımına gelmiştir. Uzun çalışmalar sonucunda mutantların sıradan insanlar gibi yaşama olanağı sağlanmıştır.Mutantlar Amerikan hükumeti'nin emriyle mutantların tedavi edilmesi için üretilmiş ve daha da ileri gidilerek bir silaha dönüştürülmüş bu tedavinin kendilerine zorla uygulanacağını fark etmiştir. Sonrasında mutantlar arasında tartışmalar ve bu tedaviye karşı karşı örgütlenmeler başlayacaktır. Örgütlenme adeta bir direnişe dönmüştür ve direnişin başında Magento önderlik etmektedir.",
+        "time": "2s 24dk",
+        "year": "1994",
+        "score": "9.3",
+        "cast": [
+          {
+            "name": "Hugh Jackman",
+            "slug": "hugh",
+            "image": "images/hugh.jpg",
+            "character": "Wolwerine",
+            "birthdate": "1 Haziran, 1937",
+            "height": "1.88m",
+            "bio": "Otoriter sesi ve sakin tavrıyla her zaman popüler olan Amerikalı aktör, modern ABD sinemasının en saygın figürlerinden biri haline geldi..."
+          },
+          {
+            "name": "Ian McKellen",
+            "slug": "lan",
+            "image": "images/lan.jpg",
+            "character": "Magneto",
+            "birthdate": "16 Ekim 1958",
+            "height": "1.94m",
+            "bio": "West Covina, Kaliforniya'da doğan Tim Robbins, eski The Highwaymen şarkıcısı Gil Robbins ve aktris Mary Robbins'in (kızlık soyadı Bledsoe) oğludur..."
+          },
+          {
+            "name": "Rebecca Romijn",
+            "slug": "rebecca",
+            "image": "images/rebecca.jpg",
+            "character": "Mystique",
+            "birthdate": "1 Haziran, 1937",
+            "height": "1.88m",
+            "bio": "Otoriter sesi ve sakin tavrıyla her zaman popüler olan Amerikalı aktör, modern ABD sinemasının en saygın figürlerinden biri haline geldi..."
+          },
+          {
+            "name": "Anna Paquin",
+            "slug": "Anna",
+            "image": "images/anna.jpg",
+            "character": "Andy Dufresne",
+            "birthdate": "16 Ekim 1958",
+            "height": "1.94m",
+            "bio": "West Covina, Kaliforniya'da doğan Tim Robbins, eski The Highwaymen şarkıcısı Gil Robbins ve aktris Mary Robbins'in (kızlık soyadı Bledsoe) oğludur..."
+          },
+          {
+            "name": "Morgan Freeman",
+            "slug": "morgan",
+            "image": "images/morgan_Freeman.png",
+            "character": "Ellis Boyd 'Red' Redding",
+            "birthdate": "1 Haziran, 1937",
+            "height": "1.88m",
+            "bio": "Otoriter sesi ve sakin tavrıyla her zaman popüler olan Amerikalı aktör, modern ABD sinemasının en saygın figürlerinden biri haline geldi..."
+          },
+          {
+            "name": "Tim Robbins",
+            "slug": "tim",
+            "image": "images/tim_Robbins.jpg",
+            "character": "Andy Dufresne",
+            "birthdate": "16 Ekim 1958",
+            "height": "1.94m",
+            "bio": "West Covina, Kaliforniya'da doğan Tim Robbins, eski The Highwaymen şarkıcısı Gil Robbins ve aktris Mary Robbins'in (kızlık soyadı Bledsoe) oğludur..."
+          }
+        ],
+        "comments": [
+          {
+            "title": "Sanat tarihinin en iyisi",
+            "description": "Tartışmasız, gelmiş geçmiş en iyi film ve bundan sonra bu filmden daha iyi bir film yapılacağını sanmıyorum. Yeşil Yol filmiyle karşılaştırılması bile ayıp. Esaretin Bedeli filminin tahtını zorlayacak bir film varsa o da Inception'dır."
+          },
+          {
+            "title": "Tartışmasız Film",
+            "description": "Bu film için normal bir film demek yanlış olur bence çünkü filminde ötesinde bir hayat hikayesi, müthiş bir öykü ve ölünmeden kesinlikle izlenmesi gereken hayatımda izlediğim en iyi film. Bu filmi kesinlikle izleyin başka ne diyeceğimi bilemiyorum çünkü hala etkisinden kurtulabilmiş değilim. 10/10"
+          },
+          {
+            "title": "Süper Kahraman Filmlerinde Çığır Açan",
+            "description": "X-Men, süper kahraman türüne yeni bir soluk getiren, karakter derinliği ve etkileyici görsel efektlerle dolu bir başyapıt. Wolverine, Magneto ve Professor X gibi karakterlerin karmaşık kişilikleri, filmin sadece aksiyon sahnelerinden daha fazlasını sunmasını sağlıyor. Mutantların mücadelesi, toplumda dışlanmış bireylerin yaşadıkları zorluklara dikkat çekiyor ve izleyiciyi düşündürüyor."
+          },
+          {
+            "title": "Beklentileri Karşılamayan Bir Film",
+            "description": "X-Men serisinin bu filmi, önceki filmlerin kurduğu yüksek beklentileri karşılamaktan oldukça uzak. Hikaye anlatımı dağınık ve odak noktasını bulmakta zorlanıyor. Karakterler arası geçişler aceleye gelmiş gibi ve bu da izleyici olarak filmin akışını takip etmeyi zorlaştırıyor. Daha iyi bir senaryo ve düzenleme ile çok daha iyi olabilirdi."
+          }
+        ]
+      },
+      {
+        "name": "Terminatör 2: Mahşer Günü",
+        "slug": "terminator",
+        "image": "images/terminator.jpg",
+        "id": 2,
+        "description": "Sarah Connor'ı öldürmekte başarısız olan bir cyborg, şimdi on yaşındaki oğlu John'u daha da gelişmiş ve güçlü bir cyborgdan korumak zorundadır.",
+        "time": "2s 17dk",
+        "year": "1991",
+        "score": "8.6",
+        "cast": [
+          {
+            "name": "Arnold Schwarzenegger",
+            "slug": "arnold",
+            "image": "images/arnold_Schwarzenegger.jpg",
+            "character": "The Terminator",
+            "birthdate": "30 Temmuz, 1947",
+            "height": "1.88m",
+            "bio": "Neredeyse telaffuz edilemeyen bir soyadı ve kalın bir Avusturya aksanıyla, küçük bir Avrupa köyünden gelen küstah, hızlı konuşan bir vücut geliştirici..."
+          },
+          {
+            "name": "Linda Hamilton",
+            "slug": "linda",
+            "image": "images/linda_Hamilton.jpg",
+            "character": "Sarah Connor",
+            "birthdate": "26 Eylül 1956",
+            "height": "1.66m",
+            "bio": "Salisbury, Maryland, ABD'de doğan Linda, liseden sonra New York'ta oyunculuk eğitimine geçmeden önce..."
+          }
+        ],
+        "comments": [
+          {
+            "title": "Mükemmel Film",
+            "description": "Bu film gerçekten harika! Arnold'un performansı ve aksiyon sahneleri müthişti. Kesinlikle izlenmeli."
+          }
+        ]
+      },
+      {
+        "name": "The Kingdom",
+        "slug": "kuzu",
+        "image": "images/the_kingdom.jpg",
+        "id": 3,
+        "description": "Genç bir F.B.I. öğrencisi, kurbanlarının derisini yüzen bir seri katili yakalamak için hapisteki manipülatif bir yamyamın yardımını almak zorundadır.",
+        "time": "1s 58dk",
+        "year": "1991",
+        "score": "4.6",
+        "cast": [
+          {
+            "name": "Jamie Foxx",
+            "slug": "Jamie",
+            "image": "images/jamie.jpg",
+            "character": "Dr. Hannibal Lecter",
+            "birthdate": "31 Aralık 1937",
+            "height": "1.75m",
+            "bio": "Anthony Hopkins 31 Aralık 1937'de Galler'in Margam kentinde Muriel Anne (Yeats) ve fırıncı Richard Arthur Hopkins'in çocuğu olarak dünyaya geldi..."
+          },
+          {
+            "name": "Jennifer Garner",
+            "slug": "Jennifer",
+            "image": "images/jenn.jpg",
+            "character": "Clarice Starling",
+            "birthdate": "19 Kasım 1962",
+            "height": "1.60m",
+            "bio": "Jodie Foster kariyerine iki yaşında başladı. Dört yıl boyunca reklam filmlerinde oynadı..."
+          },
+          {
+            "name": "Chris Cooper",
+            "slug": "Chris",
+            "image": "images/chris.jpg",
+            "character": "Clarice Starling",
+            "birthdate": "19 Kasım 1962",
+            "height": "1.60m",
+            "bio": "Jodie Foster kariyerine iki yaşında başladı. Dört yıl boyunca reklam filmlerinde oynadı..."
+          }
+        ],
+        "comments": [
+          {
+            "title": "Gerilim Dolu",
+            "description": "Anthony Hopkins ve Jodie Foster muhteşem performans sergilemişler. Kesinlikle izlenmesi gereken bir film."
+          }
+        ]
+      },
+      {
+        "name": "Valkyrie",
+        "slug": "ryan",
+        "image": "images/valkyrie.jpg",
+        "id": 4,
+        "description": "Normandiya Çıkarması'nın ardından bir grup ABD askeri, kardeşleri çatışmada öldürülen bir paraşütçüyü kurtarmak için düşman hatlarının gerisine gider.",
+        "time": "2s 49dk",
+        "year": "1998",
+        "score": "8.6",
+        "cast": [
+          {
+            "name": "Tom Hanks",
+            "slug": "tom",
+            "image": "images/tom_Hanks.jpg",
+            "character": "Captain Miller",
+            "birthdate": "9 Temmuz 1956",
+            "height": "1.83m",
+            "bio": "Thomas Jeffrey Hanks, Concord, Kaliforniya'da bir hastane çalışanı olan Janet Marylyn (Frager) ve gezgin bir aşçı olan Amos Mefford Hanks'in çocuğu olarak dünyaya geldi..."
+          },
+          {
+            "name": "Matt Damon",
+            "slug": "matt",
+            "image": "images/matt_Damon.jpg",
+            "character": "Private Ryan",
+            "birthdate": "8 Ekim 1970",
+            "height": "1.78m",
+            "bio": "Matthew Damon, 8 Ekim 1970'te Boston, Massachusetts'te doğdu..."
+          }
+        ],
+        "comments": [
+          {
+            "title": "Mükemmel Savaş Filmi",
+            "description": "Tom Hanks ve Matt Damon harika bir iş çıkarmış. Çok etkileyici bir film."
+          }
+        ]
+      },
+      {
+        "name": "Vacancy",
+        "slug": "forrest",
+        "image": "images/vacancy.jpg",
+        "id": 5,
+        "description": "Amerika Birleşik Devletleri'nin 1950'lerden 70'lere uzanan tarihi, IQ'su 75 olan ve çocukluk aşkına kavuşmayı arzulayan Alabamalı bir adamın bakış açısından anlatılıyor.",
+        "time": "2s 22dk",
+        "year": "1998",
+        "score": "2",
+        "cast": [
+          {
+            "name": "Tom Hanks",
+            "slug": "tom",
+            "image": "images/tom_Hanks.jpg",
+            "character": "Forrest Gump",
+            "birthdate": "9 Temmuz 1956",
+            "height": "1.83m",
+            "bio": "Thomas Jeffrey Hanks, Concord, Kaliforniya'da bir hastane çalışanı olan Janet Marylyn (Frager) ve gezgin bir aşçı olan Amos Mefford Hanks'in çocuğu olarak dünyaya geldi..."
+          },
+          {
+            "name": "Robin Wright",
+            "slug": "robin",
+            "image": "images/robin_Wright.jpg",
+            "character": "Jenny Curran",
+            "birthdate": "8 Nisan 1966",
+            "height": "1.65m",
+            "bio": "Robin Gayle Wright, Mary Kay'de ulusal direktör olan Gayle (Gaston) ve ilaç sektöründe yönetici olan Freddie Wright'ın çocuğu olarak Dallas, Teksas'ta doğdu..."
+          }
+        ],
+        "comments": [
+          {
+            "title": "Etkileyici Bir Hikaye",
+            "description": "Forrest Gump hayatımı değiştirdi. Bu filmi kesinlikle izleyin."
+          }
+        ]
+      },
+      {
+        "name": "Spiderman 3",
+        "slug": "seven",
+        "image": "images/spiderman3.jpg",
+        "id": 6,
+       "description": "Peter Parker, Örümcek Adam olarak şehrin sevgilisi haline gelmiştir, ancak yeni kazandığı ün ve güçler onun kibrini artırır. Bu sırada, uzaydan gelen gizemli bir madde Peter'ın kostümüne bulaşır ve onun daha karanlık, daha agresif bir tarafını ortaya çıkarır. Bu karanlık tarafı kontrol altına almaya çalışırken, iki yeni düşman; Sandman ve intikam peşindeki Eddie Brock ortaya çıkar. Peter, kendi içindeki savaşları ve dış dünyadaki düşmanlarıyla başa çıkmak zorundadır.",
+        "time": "2s 7dk",
+        "year": "1995",
+        "score": "8.5",
+        "cast": [
+          {
+            "name": "Tobey Maguire",
+            "slug": "Tobey",
+            "image": "images/tobey.jpg",
+            "character": "Mills",
+            "birthdate": "18 Aralık 1963",
+            "height": "1.80m",
+            "bio": "William Bradley Pitt 18 Aralık 1963'te Shawnee, Oklahoma'da doğdu ve Springfield, Missouri'de büyüdü..."
+          },
+          {
+            "name": "Kirsten Dunst",
+            "slug": "Kirsten",
+            "image": "images/kirsten.jpg",
+            "character": "Detective Somerset",
+            "birthdate": "1 Haziran 1937",
+            "height": "1.88m",
+            "bio": "Otoriter sesi ve sakin tavrıyla her zaman popüler olan Amerikalı aktör, modern ABD sinemasının en saygın figürlerinden biri haline geldi..."
+          },{
+            "name": "Topher Grace",
+            "slug": "Topher",
+            "image": "images/topher.jpg",
+            "character": "Detective Somerset",
+            "birthdate": "1 Haziran 1937",
+            "height": "1.88m",
+            "bio": "Otoriter sesi ve sakin tavrıyla her zaman popüler olan Amerikalı aktör, modern ABD sinemasının en saygın figürlerinden biri haline geldi..."
+          }
+        ],
+        "comments": [
+          {
+            "title": "Gerilim ve Gizem",
+            "description": "Bu film gerçekten rahatsız edici ama harika bir gerilim. Brad Pitt ve Morgan Freeman mükemmel bir iş çıkarmış."
+          }
+        ]
+      },
+      {
+        "name": "Transformers",
+        "slug": "aesaret1",
+        "image": "images/transformers.jpg",
+        "id": 7,
+        "description": "Karısını öldürme suçundan hüküm giymiş bir bankacı, masumiyetini korurken ve basit bir şefkatle umutlu kalmaya çalışırken, sertleşmiş bir mahkûmla çeyrek asırlık bir dostluk kurar.",
+        "time": "2s 24dk",
+        "year": "1994",
+        "score": "9.3",
+        "cast": [
+          {
+            "name": "Morgan Freeman",
+            "slug": "morgan",
+            "image": "images/morgan_Freeman.png",
+            "character": "Ellis Boyd 'Red' Redding",
+            "birthdate": " 1 Haziran,1937",
+            "height": "1.88m",
+            "bio": "Otoriter sesi ve sakin tavrıyla her zaman popüler olan Amerikalı aktör, modern ABD sinemasının en saygın figürlerinden biri haline geldi. Morgan 1 Haziran 1937'de Memphis, Tennessee'de öğretmen Mayme Edna (Revere) ve berber Morgan Porterfield Freeman'ın çocuğu olarak dünyaya geldi. Genç Freeman, 1955-1959 yılları arasında ABD Hava Kuvvetleri'nde mekaniker olarak birkaç yıl görev yapmadan önce Los Angeles Şehir Koleji'ne devam etti. Dramatik sanatlarla ilk kez sahnede tanışan Freeman, Hello, Dolly! adlı coşkulu müzikalin tamamı Afrikalı Amerikalılardan oluşan bir prodüksiyonunda rol aldı."
+          },
+          {
+            "name": "Tim Robbins",
+            "slug": "tim",
+            "image": "images/tim_Robbins.jpg",
+            "character": "Andy Dufresne",
+            "birthdate": "16 Ekim 1958",
+            "height": "1.94m",
+            "bio": "West Covina, Kaliforniya'da doğan ancak New York'ta büyüyen Tim Robbins, eski The Highwaymen şarkıcısı Gil Robbins ve aktris Mary Robbins 'in (kızlık soyadı Bledsoe) oğludur. Robbins, 1981 yılında onur derecesiyle mezun olduğu UCLA'da drama eğitimi aldı. Aynı yıl, radikal siyasi gözlemlerini Avrupa avangart tiyatro biçimi aracılığıyla ifade eden deneysel bir topluluk olan Actors' Gang tiyatro grubunu kurdu. Sinema çalışmalarına 1983'te televizyon filmlerinde başladı, ancak 1988'de Boğa Takımı'nda (1988) canlandırdığı ahmak hızlı top atıcısı “Nuke” Laloosh rolüyle büyük çıkış yakaladı. Uzun boyu ve bebek yüzlü bakışlarıyla, saf ve aptal (Cadillac Man (1990) ve Bir Şirket Komedisi (1994)) ya da kurnaz ve açıkgöz (Oyuncular (1992) ve Bob Roberts (1992)) rollerini oynayabilmektedir."
+          }
+        ],
+        "comments": [
+          {
+            "title": "Sanat tarihinnin en iyisi",
+            "description": "Tartışmasız,gelmiş geçmiş en iyi film ve bundan sonra bu filmden daha iyi bir film yapılacağını sanmıyorum yeşil yol filmiyle karşılaştırılması bile ayıp Esaretin Bedeli filminin tahtını zorlayacak bir film varsa o da Inception'dır."
+          },
+          {
+            "title": "Tartışmasız Film",
+            "description": "Bu film için normal bir film demek yanlış olur bence çünkü filminde ötesinde bir hayat hikayesi,müthiş bir öykü ve ölünmeden kesinlikle ve kesinlikle izlenmesi gereken hayatımda izlediğim en iyi film.Bu filmi kesinlikle izleyin başka ne diyeceğimi bilemiyorum çünki hala etkisinden kurtulabilmiş değilim.10/10"
+          }
+        ]
+      },
+      {
+        "name": "Angels & Demons",
+        "slug": "terminator",
+        "image": "images/angels&demons.jpg",
+        "id": 8,
+        "description": "Sarah Connor'ı öldürmekte başarısız olanın aynısı olan bir cyborg, şimdi on yaşındaki oğlu John'u daha da gelişmiş ve güçlü bir cyborgdan korumak zorundadır.",
+        "time": "2s 17dk",
+        "year": "1991",
+        "score": "8.6",
+        "cast": [
+          {
+            "name": "Arnold Schwarzenegger",
+            "slug": "arnold",
+            "image": "images/arnold_Schwarzenegger.jpg",
+            "character": "The Terminator",
+            "birthdate": " 30 Temmuz,1937",
+            "height": "1.88m",
+            "bio": "Neredeyse telaffuz edilemeyen bir soyadı ve kalın bir Avusturya aksanıyla, küçük bir Avrupa köyünden gelen küstah, hızlı konuşan bir vücut geliştiricinin Hollywood'un en büyük yıldızlarından biri olacağına, prestijli Kennedy ailesiyle evleneceğine, kurnaz yatırımlarla bir servet biriktireceğine ve bir gün Kaliforniya Valisi olacağına kim inanabilirdi ki!"
+          },
+          {
+            "name": "Linda Hamilton",
+            "slug": "linda",
+            "image": "images/linda_Hamilton.jpg",
+            "character": "Sarah Connor",
+            "birthdate": "26  Eylül 1956",
+            "height": "1.66m",
+            "bio": "Salisbury, Maryland, ABD'de doğan Linda, liseden sonra New York'ta oyunculuk eğitimine geçmeden önce Chestertown, Maryland'deki Washington College'da iki yıl eğitim gördü. New York'ta Lee Strasberg tarafından verilen oyunculuk atölyelerine katıldı. İlk rolleri TV dizilerindeki küçük rollerdi ve en büyük çıkışını Terminatör'deki rolüyle yaptı: Yok Edici (1984) filmindeki rolüyle oldu. Kamuoyu tarafından en çok Güzel ve Çirkin (1987) dizisindeki rolüyle tanındı (en azından Terminatör 2: Mahşer Günü'nden (1991) önce)."
+          }
+        ],
+        "comments": [
+          {
+            "title": "Sanat tarihinnin en iyisi",
+            "description": "Tartışmasız,gelmiş geçmiş en iyi film ve bundan sonra bu filmden daha iyi bir film yapılacağını sanmıyorum yeşil yol filmiyle karşılaştırılması bile ayıp Esaretin Bedeli filminin tahtını zorlayacak bir film varsa o da Inception'dır."
+          },
+          {
+            "title": "Tartışmasız Film",
+            "description": "Bu film için normal bir film demek yanlış olur bence çünkü filminde ötesinde bir hayat hikayesi,müthiş bir öykü ve ölünmeden kesinlikle ve kesinlikle izlenmesi gereken hayatımda izlediğim en iyi film.Bu filmi kesinlikle izleyin başka ne diyeceğimi bilemiyorum çünki hala etkisinden kurtulabilmiş değilim.10/10"
+          }
+        ]
+      },
+      {
+        "name": "Buz Devri",
+        "slug": "akuzu",
+        "image": "images/buz_devri.jpg",
+        "id": 9,
+        "description": "Bu animasyon filmi, Buz Devri'nin soğuk ve vahşi doğasında yolları tesadüfen kesişen üç farklı hayvanın hikayesini anlatıyor. Sid adında konuşkan bir tembel hayvan, Manny adında huysuz bir mamut ve Diego adında sinsi bir kaplan, kaybolmuş bir insan çocuğunu ailesine geri götürme görevini üstlenirler. Bu süreçte, hem kendilerini hem de birbirlerini keşfederlerken, hayatta kalmak için iş birliği yapmanın önemini öğrenirler.",
+        "time": "1s 58dk",
+        "year": "1991",
+        "score": "8.6",
+        "cast": [
+          {
+            "name": "Anthony Hopkins",
+            "slug": "anthony",
+            "image": "images/anthony_Hopkins.jpg",
+            "character": "Dr. Hannibal Lecter",
+            "birthdate": " 31 Aralık,1937",
+            "height": "1.75m",
+            "bio": "Anthony Hopkins 31 Aralık 1937'de Galler'in Margam kentinde Muriel Anne (Yeats) ve fırıncı Richard Arthur Hopkins'in çocuğu olarak dünyaya geldi. Anne ve babası yarı Galli yarı İngiliz kökenliydi. Richard Burton'dan etkilenerek College of Music and Drama'da okumaya karar verdi ve 1957'de mezun oldu. 1965 yılında Londra'ya taşındı ve Hopkins'teki yeteneği gören Laurence Olivier tarafından davet edilerek Ulusal Tiyatro'ya katıldı. 1967'de televizyon için ilk filmi olan A Flea in Her Ear'ı (1967) çekti."
+          },
+          {
+            "name": "Jodie Foster",
+            "slug": "jodie",
+            "image": "images/jodie_Fosterjpg.jpg",
+            "character": "Clarice Starling",
+            "birthdate": "19 Kasım 1962",
+            "height": "1.60m",
+            "bio": "Jodie Foster kariyerine iki yaşında başladı. Dört yıl boyunca reklam filmlerinde oynadı ve sonunda Mayberry R.F.D. (1968) adlı TV dizisinde ilk kez oyuncu olarak yer aldı. 1975 yılında Jodie'ye Taksi Şoförü (1976) filminde fahişe Iris Steensma rolü teklif edildi. “En İyi Yardımcı Kadın Oyuncu” dalında Akademi Ödülü adaylığı kazandığı bu rol, kariyerinde bir dönüm noktası oldu. 1980'de Lycée Français'den sınıf birincisi olarak mezun oldu ve Yale Üniversitesi'nde İngiliz Edebiyatı okumaya başladı. 1985'te buradan birincilikle mezun oldu. Hayatındaki trajik anlardan biri 30 Mart 1981'de John Warnock Hinkley Jr'ın Amerika Birleşik Devletleri Başkanı Ronald Reagan'a suikast girişiminde bulunmasıydı. Hinkley, Jodie'ye ve Robert De Niro'nun canlandırdığı Travis Bickle'ın başkan adayı Palantine'i vurmaya çalıştığı Taksi Şoförü (1976) filmine takıntılıydı. Jodie hiç oyunculuk dersi almamasına rağmen otuz yaşına gelmeden iki Oscar aldı. İlk ödülünü Sanık (1988) filmindeki Sarah Tobias rolüyle, ikincisini ise Kuzuların Sessizliği (1991) filmindeki Clarice Starling performansıyla aldı."
+          }
+        ],
+        "comments": [
+          {
+            "title": "Sanat tarihinnin en iyisi",
+            "description": "Tartışmasız,gelmiş geçmiş en iyi film ve bundan sonra bu filmden daha iyi bir film yapılacağını sanmıyorum yeşil yol filmiyle karşılaştırılması bile ayıp Esaretin Bedeli filminin tahtını zorlayacak bir film varsa o da Inception'dır."
+          },
+          {
+            "title": "Tartışmasız Film",
+            "description": "Bu film için normal bir film demek yanlış olur bence çünkü filminde ötesinde bir hayat hikayesi,müthiş bir öykü ve ölünmeden kesinlikle ve kesinlikle izlenmesi gereken hayatımda izlediğim en iyi film.Bu filmi kesinlikle izleyin başka ne diyeceğimi bilemiyorum çünki hala etkisinden kurtulabilmiş değilim.10/10"
+          }
+        ]
+      },
+      {
+        "name": "Eagle Eye",
+        "slug": "aryan",
+        "image": "images/eagle_eye.jpg",
+        "id": 10,
+        "description": "Jerry Shaw ve Rachel Holloman adlı iki yabancı, elektronik cihazlar yoluyla aldıkları gizemli talimatlarla tehdit edilirler. Her ikisi de, ABD hükümetinin sırlarını açığa çıkarmak için kullanılacak bir terörist komplonun içinde yer almak zorunda kalmıştır. İkili, kendilerini sürekli izleyen ve kontrol eden bu gizemli gücün kim veya ne olduğunu çözmeye çalışırken, aynı zamanda ailelerini korumak için tehlikeli bir kaçışa başlarlar.",
+        "time": "2s 49dk",
+        "year": "1998",
+        "score": "8.6",
+        "cast": [
+          {
+            "name": "Tom Hanks",
+            "slug": "tom",
+            "image": "images/tom_Hanks.jpg",
+            "character": "Captain Miller",
+            "birthdate": "9 Temmuz 1956",
+            "height": "1.83m",
+            "bio": "Thomas Jeffrey Hanks, Concord, Kaliforniya'da bir hastane çalışanı olan Janet Marylyn (Frager) ve gezgin bir aşçı olan Amos Mefford Hanks'in çocuğu olarak dünyaya geldi. Asıl soyadı “Fraga” olan annesinin ailesi tamamen Portekizliydi, babası ise çoğunlukla İngiliz kökenliydi. Tom kendi deyimiyle “parçalanmış” bir ailede büyüdü. Anne ve babasının boşanmasından sonra çok fazla yer değiştirmiş ve art arda üvey ailelerle yaşamış. Sorun yok, alkolizm yok - sadece kafası karışık bir çocukluk. Üniversitede hiç oyunculuk deneyimi yok ve kariyerinin başlangıcını bir üniversite oyununda rol alamamasına bağlıyor. Şehir merkezine gitmiş ve bir halk tiyatrosu oyunu için seçmelere katılmış, oyunun yönetmeni tarafından Cleveland'a davet edilmiş ve oyunculuk kariyeri orada başlamış."
+          },
+          {
+            "name": "Matt Damon",
+            "slug": "matt",
+            "image": "images/matt_Damon.jpg",
+            "character": "Private Ryan",
+            "birthdate": "8 Ekim 1960",
+            "height": "1.78m",
+            "bio": "Matthew, 8 Ekim 1970'te Boston, Massachusetts'te borsacı, emlakçı ve vergi hazırlayıcısı Kent Damon ile Lesley Üniversitesi'nde erken çocukluk eğitimi profesörü olan Nancy Carlsson-Paige'in oğlu olarak dünyaya geldi. Matt'in heykeltıraş olan Kyle adında bir ağabeyi vardır. Babası İngiliz ve İskoç kökenli, annesi ise Fin ve İsveç kökenlidir. Anne ve babası 1973 yılında boşanıncaya kadar Newton'da yaşayan aile, Damon ve ağabeyinin annesiyle birlikte Cambridge'e taşınmasına kadar burada yaşamıştır. İstikrarlı bir topluluk içinde büyüdü ve aktör Ben Affleck'in yanında yetişti."
+          }
+        ],
+        "comments": [
+          {
+            "title": "Sanat tarihinnin en iyisi",
+            "description": "Tartışmasız,gelmiş geçmiş en iyi film ve bundan sonra bu filmden daha iyi bir film yapılacağını sanmıyorum yeşil yol filmiyle karşılaştırılması bile ayıp Esaretin Bedeli filminin tahtını zorlayacak bir film varsa o da Inception'dır."
+          },
+          {
+            "title": "Tartışmasız Film",
+            "description": "Bu film için normal bir film demek yanlış olur bence çünkü filminde ötesinde bir hayat hikayesi,müthiş bir öykü ve ölünmeden kesinlikle ve kesinlikle izlenmesi gereken hayatımda izlediğim en iyi film.Bu filmi kesinlikle izleyin başka ne diyeceğimi bilemiyorum çünki hala etkisinden kurtulabilmiş değilim.10/10"
+          }
+        ]
+      },
+      {
+        "name": "Gladyator",
+        "slug": "aforrest",
+        "image": "images/gladyator.jpg",
+        "id": 11,
+        "description": "Roma İmparatorluğu'nun en yetenekli generali Maximus Decimus Meridius, iktidar hırsı yüzünden imparatorun oğlu Commodus tarafından ihanete uğrar. Ailesi öldürülen Maximus, kendini bir gladyatör olarak Roma'nın ölüm arenalarında bulur. Maximus, arenada elde ettiği zaferlerle halkın sevgisini kazanırken, intikamını almak ve adaleti sağlamak için yükselir. Bu epik hikaye, ihanet, intikam, onur ve cesaret temalarını işlerken, antik Roma'nın görkemli ve acımasız dünyasını gözler önüne serer.",
+        "time": "2s 22dk",
+        "year": "1998",
+        "score": "8.5",
+        "cast": [
+          {
+            "name": "Tom Hanks",
+            "slug": "tom",
+            "image": "images/tom_Hanks.jpg",
+            "character": "Captain Miller",
+            "birthdate": "9 Temmuz 1956",
+            "height": "1.83m",
+            "bio": "Thomas Jeffrey Hanks, Concord, Kaliforniya'da bir hastane çalışanı olan Janet Marylyn (Frager) ve gezgin bir aşçı olan Amos Mefford Hanks'in çocuğu olarak dünyaya geldi. Asıl soyadı “Fraga” olan annesinin ailesi tamamen Portekizliydi, babası ise çoğunlukla İngiliz kökenliydi. Tom kendi deyimiyle “parçalanmış” bir ailede büyüdü. Anne ve babasının boşanmasından sonra çok fazla yer değiştirmiş ve art arda üvey ailelerle yaşamış. Sorun yok, alkolizm yok - sadece kafası karışık bir çocukluk. Üniversitede hiç oyunculuk deneyimi yok ve kariyerinin başlangıcını bir üniversite oyununda rol alamamasına bağlıyor. Şehir merkezine gitmiş ve bir halk tiyatrosu oyunu için seçmelere katılmış, oyunun yönetmeni tarafından Cleveland'a davet edilmiş ve oyunculuk kariyeri orada başlamış."
+          },
+          {
+            "name": "Robin Wright",
+            "slug": "robin",
+            "image": "images/robin_Wright.jpg",
+            "character": "Jenny Curran",
+            "birthdate": "8 Nisan 1966",
+            "height": "1.65",
+            "bio": "Robin Gayle Wright, Mary Kay'de ulusal direktör olan Gayle (Gaston) ve ilaç sektöründe yönetici olan Freddie Wright'ın çocuğu olarak Dallas, Teksas'ta doğdu. San Diego, Kaliforniya'da büyüdü. Profesyonel kariyerine 1980 yılında 14 yaşındayken model olarak başladı ve hem Paris'te hem de Japonya'da çalıştı. Liseyi bitirdikten sonra oyuncu olmaya karar verdi. Üç kez Gündüz Kuşağı Emmy'sine aday gösterildiği pembe dizi Santa Barbara'da (1984) bir rol aldı. Dizinin ilk sezonunda, 1986'da evlendiği oyuncu arkadaşı Dane Witherspoon'a aşık oldu. Bu arada Prenses gelin (1987) adlı filmde başrol oynadı. Santa Barbara'nın kadrosundan ayrıldıktan sonra Jason Patric ile birlikte Denial (1990) filminde başrolü üstlendi. "
+          }
+        ],
+        "comments": [
+          {
+            "title": "Sanat tarihinnin en iyisi",
+            "description": "Tartışmasız,gelmiş geçmiş en iyi film ve bundan sonra bu filmden daha iyi bir film yapılacağını sanmıyorum yeşil yol filmiyle karşılaştırılması bile ayıp Esaretin Bedeli filminin tahtını zorlayacak bir film varsa o da Inception'dır."
+          },
+          {
+            "title": "Tartışmasız Film",
+            "description": "Bu film için normal bir film demek yanlış olur bence çünkü filminde ötesinde bir hayat hikayesi,müthiş bir öykü ve ölünmeden kesinlikle ve kesinlikle izlenmesi gereken hayatımda izlediğim en iyi film.Bu filmi kesinlikle izleyin başka ne diyeceğimi bilemiyorum çünki hala etkisinden kurtulabilmiş değilim.10/10"
+          }
+        ]
+      },
+      {
+        "name": "House",
+        "slug": "aseven1",
+        "image": "images/house.jpg",
+        "id": 12,
+        "description": "Dr. Gregory House, tıbbi dâhilik ve sosyal beceriksizlik arasında sıkışıp kalmış, acı içinde yaşayan bir doktordur. Kendine has yöntemleri ve ekibiyle birlikte, diğer doktorların teşhis koyamadığı, gizemli hastalıkları çözer. Her bölümde farklı bir hastanın hikayesi işlenirken, House'un kişisel mücadeleleri ve etik sınırları zorlayan yaklaşımları da diziye derinlik kazandırır.",
+        "time": "2s 7dk",
+        "year": "1995",
+        "score": "8.5",
+        "cast": [
+          {
+            "name": "Brad Pitt",
+            "slug": "brad",
+            "image": "images/brad_Pitt.jpg",
+            "character": "Mils",
+            "birthdate": "18 Aralık 1963",
+            "height": "1.80m",
+            "bio": "William Bradley “Brad” Pitt 18 Aralık 1963'te Shawnee, Oklahoma'da doğdu ve Springfield, Missouri'de bir okul danışmanı olan Jane Etta Pitt (kızlık soyadı Hillhouse) ve bir kamyon şirketi yöneticisi olan William Alvin “Bill” Pitt'in çocuğu olarak büyüdü. Pitt, Kickapoo Lisesi'nde spor, münazara, öğrenci yönetimi ve okul müzikallerinde yer aldı. Pitt Missouri Üniversitesi'ne katıldı ve burada reklamcılık odaklı gazetecilik eğitimi aldı. Zaman zaman kardeşlik gösterilerinde rol aldı. Kaliforniya'ya taşınmak için mezun olmasına iki kredi kala üniversiteden ayrıldı. Oyunculukta başarılı olmadan önce Pitt, El Pollo Loco'da çalışırken striptizcileri limuzinle gezdirerek, buzdolabı taşıyarak ve dev bir tavuk gibi giyinerek geçimini sağladı."
+          },
+          {
+            "name": "Morgan Freeman",
+            "slug": "morgan",
+            "image": "images/morgan_Freeman.png",
+            "character": "Ellis Boyd 'Red' Redding",
+            "birthdate": " 1 Haziran,1937",
+            "height": "1.88m",
+            "bio": "Otoriter sesi ve sakin tavrıyla her zaman popüler olan Amerikalı aktör, modern ABD sinemasının en saygın figürlerinden biri haline geldi. Morgan 1 Haziran 1937'de Memphis, Tennessee'de öğretmen Mayme Edna (Revere) ve berber Morgan Porterfield Freeman'ın çocuğu olarak dünyaya geldi. Genç Freeman, 1955-1959 yılları arasında ABD Hava Kuvvetleri'nde mekaniker olarak birkaç yıl görev yapmadan önce Los Angeles Şehir Koleji'ne devam etti. Dramatik sanatlarla ilk kez sahnede tanışan Freeman, Hello, Dolly! adlı coşkulu müzikalin tamamı Afrikalı Amerikalılardan oluşan bir prodüksiyonunda rol aldı."
+          }
+        ],
+        "comments": [
+          {
+            "title": "Sanat tarihinnin en iyisi",
+            "description": "Tartışmasız,gelmiş geçmiş en iyi film ve bundan sonra bu filmden daha iyi bir film yapılacağını sanmıyorum yeşil yol filmiyle karşılaştırılması bile ayıp Esaretin Bedeli filminin tahtını zorlayacak bir film varsa o da Inception'dır."
+          },
+          {
+            "title": "Tartışmasız Film",
+            "description": "Bu film için normal bir film demek yanlış olur bence çünkü filminde ötesinde bir hayat hikayesi,müthiş bir öykü ve ölünmeden kesinlikle ve kesinlikle izlenmesi gereken hayatımda izlediğim en iyi film.Bu filmi kesinlikle izleyin başka ne diyeceğimi bilemiyorum çünki hala etkisinden kurtulabilmiş değilim.10/10"
+          }
+        ]
+      },
+      {
+        "name": "Kung Fu Panda",
+        "slug": "ayesil1",
+        "image": "images/kung_fu_panda.jpg",
+        "id": 13,
+        "description": "Po adında sevimli ve sakar bir panda, hayallerinin peşinden giderek bir kung fu ustası olma şansını yakalar. Çok sevdiği kung fu sanatçılarından oluşan Efsanevi Beşli'nin yanı sıra ustası Shifu'dan zorlu bir eğitim alır. Po, beklenmedik bir şekilde kung fu dünyasının kurtarıcısı olarak görülür ve köyünü tehdit eden güçlü bir düşmana karşı koymak zorunda kalır. Kendine olan inancını ve kung fu yeteneklerini sınarken, gerçek bir kahramanın ne anlama geldiğini öğrenir.",
+        "time": "3s 9dk",
+        "year": "1999",
+        "score": "8.6",
+        "cast": [
+          {
+            "name": "Michael Clarke Duncan",
+            "slug": "michael",
+            "image": "images/michael_Clarke_Duncan.jpg",
+            "character": "John Cofey",
+            "birthdate": "10 Aralık 1957",
+            "height": "1.93m",
+            "bio": "Michael Clarke Duncan 10 Aralık 1957'de Chicago, Illinois'de doğdu. Chicago'nun Güney Yakası'nda ev temizliğine giden bekâr annesi Jean tarafından yetiştirilen Duncan, uyuşturucu ve alkole direnerek büyüdü, bunun yerine okula odaklandı. Lisede futbol oynamak istedi, ancak annesi incinmesinden korktuğu için buna izin vermedi. Bunun üzerine oyunculuğa yöneldi ve ünlü bir aktör olma hayalleri kurdu."
+          },
+          {
+            "name": "Tom Hanks",
+            "slug": "tom",
+            "image": "images/tom_Hanks.jpg",
+            "character": "Captain Miller",
+            "birthdate": "9 Temmuz 1956",
+            "height": "1.83m",
+            "bio": "Thomas Jeffrey Hanks, Concord, Kaliforniya'da bir hastane çalışanı olan Janet Marylyn (Frager) ve gezgin bir aşçı olan Amos Mefford Hanks'in çocuğu olarak dünyaya geldi. Asıl soyadı “Fraga” olan annesinin ailesi tamamen Portekizliydi, babası ise çoğunlukla İngiliz kökenliydi. Tom kendi deyimiyle “parçalanmış” bir ailede büyüdü. Anne ve babasının boşanmasından sonra çok fazla yer değiştirmiş ve art arda üvey ailelerle yaşamış. Sorun yok, alkolizm yok - sadece kafası karışık bir çocukluk. Üniversitede hiç oyunculuk deneyimi yok ve kariyerinin başlangıcını bir üniversite oyununda rol alamamasına bağlıyor. Şehir merkezine gitmiş ve bir halk tiyatrosu oyunu için seçmelere katılmış, oyunun yönetmeni tarafından Cleveland'a davet edilmiş ve oyunculuk kariyeri orada başlamış."
+          }
+        ],
+        "comments": [
+          {
+            "title": "Sanat tarihinnin en iyisi",
+            "description": "Tartışmasız,gelmiş geçmiş en iyi film ve bundan sonra bu filmden daha iyi bir film yapılacağını sanmıyorum yeşil yol filmiyle karşılaştırılması bile ayıp Esaretin Bedeli filminin tahtını zorlayacak bir film varsa o da Inception'dır."
+          },
+          {
+            "title": "Tartışmasız Film",
+            "description": "Bu film için normal bir film demek yanlış olur bence çünkü filminde ötesinde bir hayat hikayesi,müthiş bir öykü ve ölünmeden kesinlikle ve kesinlikle izlenmesi gereken hayatımda izlediğim en iyi film.Bu filmi kesinlikle izleyin başka ne diyeceğimi bilemiyorum çünki hala etkisinden kurtulabilmiş değilim.10/10"
+          }
+        ]
+      },
+      {
+        "name": "Mirrors",
+        "slug": "agladyatör",
+        "image": "images/mirrors.jpg",
+        "id": 14,
+        "description": "Eski bir polis olan Ben Carson, kariyerini ve ailesini kaybettikten sonra hayatını tekrar kurmaya çalışırken gece bekçisi olarak çalışmaya başlar. Görev yaptığı terkedilmiş bir alışveriş merkezinde, aynaların arkasında gizlenmiş korkunç bir sır bulunmaktadır. Aynalar, ona ve ailesine musallat olan ölümcül bir laneti yansıtmaktadır. Carson, aynaların gizemini çözmeye çalışırken, aynı zamanda kendisini ve sevdiklerini bu karanlık güçten korumak için mücadele eder.",
+        "time": "2s 35dk",
+        "year": "2000",
+        "score": "8.5",
+        "cast": [
+          {
+            "name": "Russell Crowe",
+            "slug": "russel",
+            "image": "images/russell_Crowe.jpg",
+            "character": "Maximus",
+            "birthdate": "7 Nisan 1964",
+            "height": "1.82m",
+            "bio": "Russell Ira Crowe, Wellington, Yeni Zelanda'da, her ikisi de film setlerinde yemek servisi yapan Jocelyn Yvonne (Wemyss) ve John Alexander Crowe'un oğlu olarak dünyaya geldi. Anne tarafından büyükbabası Stanley Wemyss bir görüntü yönetmeniydi. Crowe'un yakın geçmişteki soyu Galler (baba tarafından büyükbabası Wrexham'da doğmuştur), İngiliz, İrlandalı, İskoç, Norveçli, İsveçli, İtalyan ve Maori (Crowe'un anne tarafından büyük büyükannelerinden biri olan Erana Putiputi Hayes Heihi Maori'dir) kökenlidir."
+          },
+          {
+            "name": "Joaquin Phoenix",
+            "slug": "phonenix",
+            "image": "images/joaquin_Phoenix.jpg",
+            "character": "Commodus",
+            "birthdate": "28 Ekim 1964",
+            "height": "1.68m",
+            "bio": "Joaquin Phoenix, Joaquin Rafael Bottom olarak San Juan, Porto Riko'da Arlyn (Dunetz) ve John Bottom çiftinin beş çocuğunun ortancası olarak dünyaya geldi. Amerika Birleşik Devletleri'nden gelen anne ve babası o sırada Tanrı'nın Çocukları misyonerleri olarak görev yapıyordu. Annesi New Yorklu Yahudi bir aileden, Kaliforniyalı babası ise çoğunlukla Britanya Adaları kökenlidir. Küçükken Joaquin, büyük kardeşleri River Phoenix ve Rain Phoenix'ten esinlenerek onların daha dünyevi lakaplarına uyması için adını Leaf olarak değiştirdi. Çocuklar yaratıcı içgüdülerini geliştirmeye teşvik edildiklerinde, o da onların izinden giderek oyunculuğa başladı. Küçük kardeşler Liberty Phoenix ve Summer Phoenix yetenekli grubu tamamladı."
+          }
+        ],
+        "comments": [
+          {
+            "title": "Sanat tarihinnin en iyisi",
+            "description": "Tartışmasız,gelmiş geçmiş en iyi film ve bundan sonra bu filmden daha iyi bir film yapılacağını sanmıyorum yeşil yol filmiyle karşılaştırılması bile ayıp Esaretin Bedeli filminin tahtını zorlayacak bir film varsa o da Inception'dır."
+          },
+          {
+            "title": "Tartışmasız Film",
+            "description": "Bu film için normal bir film demek yanlış olur bence çünkü filminde ötesinde bir hayat hikayesi,müthiş bir öykü ve ölünmeden kesinlikle ve kesinlikle izlenmesi gereken hayatımda izlediğim en iyi film.Bu filmi kesinlikle izleyin başka ne diyeceğimi bilemiyorum çünki hala etkisinden kurtulabilmiş değilim.10/10"
+          }
+        ]
+      },
+      {
+        "name": "Narnia",
+        "slug": "apiyanist",
+        "image": "images/narnia.jpg",
+        "id": 15,
+        "description": "Pevensie kardeşler; Peter, Susan, Edmund ve Lucy, İkinci Dünya Savaşı sırasında güvenli bir yere gönderilmek üzere evlerinden ayrılır. Gittikleri malikanede buldukları gizemli bir dolap, onları Narnia adında büyülü bir ülkeye götürür. Burada konuşan hayvanlar, mitolojik yaratıklar ve bir Beyaz Cadı ile tanışırlar. Narnia'yı kışın pençesinden kurtarmak ve gerçek kralı tahta geçirmek için destansı bir mücadeleye girişirler.",
+        "time": "2s 30dk",
+        "year": "2002",
+        "score": "8.5",
+        "cast": [
+          {
+            "name": "Adrien Brody",
+            "slug": "adrien",
+            "image": "images/adrien_Brody.jpg",
+            "character": "Wladyslaw Szpilman",
+            "birthdate": "7 Nisan 1964",
+            "height": "1.82m",
+            "bio": "Adrien Nicholas Brody, emekli tarih profesörü Elliot Brody ve Macaristan doğumlu fotoğrafçı Sylvia Plachy'nin tek çocuğu olarak Woodhaven, Queens, New York'ta dünyaya geldi. Annesine Village Voice için yaptığı görevlerde eşlik etti ve annesinin kendisini kamera önünde rahat hissetmesini sağladığını söylüyor. Adrien, New York'taki Amerikan Dramatik Sanatlar Akademisi ve LaGuardia Sahne Sanatları Lisesi'ne devam etti."
+          },
+          {
+            "name": "Thomas Kretschmann",
+            "slug": "thomas",
+            "image": "images/thomas_Kretschmann.jpg",
+            "character": "Captain Wilm Hosenfeld",
+            "birthdate": "8 Eylül 1962",
+            "height": "1.76m",
+            "bio": "Thomas Kretschmann Doğu Almanya'da doğdu. Oyuncu olmadan önce yüzücüydü. Ölümcül Deney 2: Kıyamet (2004), Piyanist (2002), U-571 (2000), In Enemy Hands (2004) gibi birçok popüler Amerikan filminde rol aldı . Eski kız arkadaşı Lena'dan Nicolas, Stella ve Sascha adında üç çocuğu vardır."
+          }
+        ],
+        "comments": [
+          {
+            "title": "Sanat tarihinnin en iyisi",
+            "description": "Tartışmasız,gelmiş geçmiş en iyi film ve bundan sonra bu filmden daha iyi bir film yapılacağını sanmıyorum yeşil yol filmiyle karşılaştırılması bile ayıp Esaretin Bedeli filminin tahtını zorlayacak bir film varsa o da Inception'dır."
+          },
+          {
+            "title": "Tartışmasız Film",
+            "description": "Bu film için normal bir film demek yanlış olur bence çünkü filminde ötesinde bir hayat hikayesi,müthiş bir öykü ve ölünmeden kesinlikle ve kesinlikle izlenmesi gereken hayatımda izlediğim en iyi film.Bu filmi kesinlikle izleyin başka ne diyeceğimi bilemiyorum çünki hala etkisinden kurtulabilmiş değilim.10/10"
+          }
+        ]
+      },
+      {
+        "name": "Spiderman 2",
+        "slug": "bpiyanist",
+        "image": "images/spiderman2.jpg",
+        "id": 16,
+        "description": "Peter Parker, Örümcek Adam olarak yaşamını sürdürürken, kişisel hayatında ciddi zorluklarla karşı karşıya gelir. Üniversitedeki işlerinde başarısız olur, büyük aşkı Mary Jane ile arası açılır ve en iyi arkadaşı Harry ile olan dostluğu sarsılır. Tüm bu sorunların üstüne, güçlü dört mekanik kol kazanan ve intikam peşinde koşan yeni düşmanı Dr. Otto Octavius ortaya çıkar. Peter, kahramanlık görevleri ile kişisel sorumlulukları arasında denge kurmaya çalışırken, gerçek fedakarlığın ne anlama geldiğini öğrenir.",
+        "time": "2s 30dk",
+        "year": "2002",
+        "score": "8.5",
+        "cast": [
+            {
+                "name": "Tobey Maguire",
+                "slug": "Tobey",
+                "image": "images/tobey.jpg",
+                "character": "Mills",
+                "birthdate": "18 Aralık 1963",
+                "height": "1.80m",
+                "bio": "William Bradley Pitt 18 Aralık 1963'te Shawnee, Oklahoma'da doğdu ve Springfield, Missouri'de büyüdü..."
+              },
+              {
+                "name": "Kirsten Dunst",
+                "slug": "Kirsten",
+                "image": "images/kirsten.jpg",
+                "character": "Detective Somerset",
+                "birthdate": "1 Haziran 1937",
+                "height": "1.88m",
+                "bio": "Otoriter sesi ve sakin tavrıyla her zaman popüler olan Amerikalı aktör, modern ABD sinemasının en saygın figürlerinden biri haline geldi..."
+              },{
+                "name": "Topher Grace",
+                "slug": "Topher",
+                "image": "images/topher.jpg",
+                "character": "Detective Somerset",
+                "birthdate": "1 Haziran 1937",
+                "height": "1.88m",
+                "bio": "Otoriter sesi ve sakin tavrıyla her zaman popüler olan Amerikalı aktör, modern ABD sinemasının en saygın figürlerinden biri haline geldi..."
+              }
+        ],
+        "comments": [
+          {
+            "title": "Sanat tarihinnin en iyisi",
+            "description": "Tartışmasız,gelmiş geçmiş en iyi film ve bundan sonra bu filmden daha iyi bir film yapılacağını sanmıyorum yeşil yol filmiyle karşılaştırılması bile ayıp Esaretin Bedeli filminin tahtını zorlayacak bir film varsa o da Inception'dır."
+          },
+          {
+            "title": "Tartışmasız Film",
+            "description": "Bu film için normal bir film demek yanlış olur bence çünkü filminde ötesinde bir hayat hikayesi,müthiş bir öykü ve ölünmeden kesinlikle ve kesinlikle izlenmesi gereken hayatımda izlediğim en iyi film.Bu filmi kesinlikle izleyin başka ne diyeceğimi bilemiyorum çünki hala etkisinden kurtulabilmiş değilim.10/10"
+          }
+        ]
+      }
+    ]
+  }

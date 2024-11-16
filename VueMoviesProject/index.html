@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Movie Hunter</title>
+  <link rel="stylesheet" href="style.css">
+  <!-- Vue.js ve Vue Router CDN -->
+  <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+  <script src="https://unpkg.com/vue-router@4"></script>
+</head>
+<body>
+  <div id="app">
+    <div class="navbar">
+      <h1 class="logo">Hunter</h1>
+      <nav>
+        <ul>
+          <li><router-link to="/">Ana Sayfa</router-link></li>
+          <li><router-link to="/">Haberler</router-link></li>
+          <li><router-link to="/">Sinemalarda</router-link></li>
+          <li><router-link to="/">Çok Yakında</router-link></li>
+          <li><router-link to="/">İletişim</router-link></li>
+        </ul>
+      </nav>
+    </div>
+    <router-view></router-view>
+  </div>
+  <script type="module" src="app.js"></script>
+</body>
+</html>
