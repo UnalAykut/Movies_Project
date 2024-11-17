@@ -1,106 +1,106 @@
-Movie Explorer - Vue.js Web Application
-Proje Açıklaması
-Movie Explorer, Vue.js kullanılarak geliştirilmiş bir dinamik film keşif ve detaylandırma web uygulamasıdır. Bu proje, modern web teknolojileriyle film ve oyuncu bilgilerini kullanıcı dostu bir şekilde sunmayı amaçlamaktadır. Uygulama, JSON tabanlı veri kaynağından aldığı bilgilerle, dinamik olarak film ve oyuncu detaylarını görüntüler ve kullanıcıların farklı bileşenler arasında sorunsuz bir şekilde gezinmesini sağlar.
+# Proje Açıklaması
 
-Proje Özellikleri
-Dinamik Film ve Oyuncu Detayları:
+Movie Explorer, Vue.js kullanılarak geliştirilmiş bir dinamik film keşif ve detaylandırma web uygulamasıdır. Bu proje, modern web teknolojileriyle film ve oyuncu bilgilerini kullanıcı dostu bir şekilde sunmayı amaçlamaktadır. Uygulama, JSON tabanlı veri kaynağından aldığı bilgilerle dinamik olarak film ve oyuncu detaylarını görüntüler ve kullanıcıların farklı bileşenler arasında sorunsuz bir şekilde gezinmesini sağlar.
 
-JSON dosyasından alınan verilerle film ve oyuncu bilgilerini dinamik olarak yükler.
-Kullanıcılar, filmlere tıklayarak detay sayfasına, oyuncu detaylarına tıklayarak ilgili oyuncunun bilgilerine ulaşabilir.
-Vue.js Kullanımı:
+---
 
-Vue Router sayesinde kullanıcı, sayfa yenilenmeden farklı bileşenler arasında geçiş yapabilir.
-Vue.js'nin reaktif özellikleriyle veri değişimlerini anında yansıtarak kullanıcıya hızlı bir deneyim sunar.
-CSS ile Özelleştirilmiş Arayüz:
+# Proje Özellikleri
 
-style.css ile kullanıcı dostu ve modern bir arayüz tasarlanmıştır.
-Film detaylarında, arka plan resimleri dinamik olarak ayarlanır.
-Tekrar Kullanılabilir Kod:
+- **Dinamik Film ve Oyuncu Detayları:**
+  - Filmleri ve oyuncuları dinamik olarak JSON dosyasından yükler.
+  - Film detay sayfasında film açıklaması, puanı ve oyuncuları görüntüler.
+  - Oyuncu detay sayfasında oyuncu biyografisi ve oynadığı filmler hakkında bilgi verir.
 
-utils.js dosyası ile tekrar eden fonksiyonlar (örneğin, yıldız derecelendirme) bir kez tanımlanmış ve farklı bileşenlerde kullanılmıştır.
-Kullanılan Teknolojiler
-Vue.js:
+- **Vue Router ile Navigasyon:**
+  - Sayfa yenilemeden farklı sayfalara geçiş sağlar.
+  - Dinamik URL yapısı sayesinde belirli bir film veya oyuncuya kolay erişim imkânı sunar.
 
-Kullanıcı arayüzü geliştirmek için kullanılan JavaScript framework'ü.
-Reaktif veri yönetimi ve bileşen tabanlı mimari ile hızlı ve dinamik uygulamalar geliştirilmesini sağlar.
-Vue Router:
+- **CSS ile Zengin Görsel Tasarım:**
+  - Filmlerin arka plan resimleri dinamik olarak ayarlanır.
+  - Responsive tasarım ile kullanıcı dostu bir arayüz sunar.
 
-Tek sayfa uygulamalarda (SPA) dinamik yönlendirme işlemleri için kullanılır.
-Kullanıcının sayfa yenilenmeden farklı içeriklere erişmesini sağlar.
-JavaScript (ES6):
-Modern JavaScript özellikleri (ör. fetch, arrow functions) kullanılarak veri işleme ve bileşenler arası iletişim sağlanmıştır.
+- **Yıldız Derecelendirme Sistemi:**
+  - Film puanlarını yıldızlarla gösteren bir sistem kullanır.
+  - `utils.js` dosyasındaki yeniden kullanılabilir fonksiyonlarla dinamik olarak hesaplanır.
 
-CSS:
-Web sitesinin modern ve kullanıcı dostu bir görünüme sahip olması için özelleştirilmiş stiller yazılmıştır.
+---
 
-JSON:
-Film ve oyuncu verileri, movie.json dosyasından alınır ve uygulama bu dosyayı bir veri kaynağı olarak kullanır.
+# Kullanılan Teknolojiler
 
-Proje Yapısı
-index.html:
-Web uygulamasının ana yapısını ve genel navigasyonu tanımlar.
-Vue.js ve Vue Router CDN bağlantılarını içerir.
-<router-view> ile dinamik içerik görüntüleme sağlanır.
+- **Vue.js:** Modern, reaktif bir kullanıcı arayüzü oluşturmak için kullanılan JavaScript framework'ü.
+- **Vue Router:** Tek sayfa uygulamalarda (SPA) sayfa geçişlerini yönetmek için kullanılır.
+- **CSS:** Web sitesinin görsel düzenini sağlar.
+- **JSON:** Film ve oyuncu bilgilerini depolamak için kullanılır.
+- **JavaScript (ES6):** Uygulamanın dinamik özelliklerini oluşturmak için kullanılır.
+- **HTML:** Web uygulamasının temel yapısını oluşturur.
 
-app.js:
-Vue Router yapılandırması ve uygulama başlangıç ayarlarını içerir.
-Bileşenlerin rotalarını (Home, MovieDetail, ActorDetail) tanımlar.
+---
 
-Home.js:
-Ana sayfayı oluşturur ve JSON dosyasındaki film bilgilerini dinamik olarak listeler.
-Filmlere tıklanıldığında, detay sayfasına yönlendirme sağlar.
+# Proje Yapısı
 
-MovieDetail.js:
-Filmin detay bilgilerini (ör. isim, puan, açıklama) görüntüler.
-Film oyuncularını listeleyerek her oyuncunun detayına erişim sunar.
+### 1. `index.html`
+- Uygulamanın başlangıç dosyasıdır.
+- Vue.js ve Vue Router bağlantılarını içerir.
+- Navigasyon barı ve dinamik içerik için `<router-view>` bileşenini içerir.
 
-ActorDetail.js:
-Oyuncu bilgilerini görüntüler (ör. isim, doğum tarihi, oynadığı karakter).
-Home sayfasına geri dönüş için bir navigasyon butonu içerir.
+### 2. `app.js`
+- Vue Router yapılandırmasını içerir.
+- `Home`, `MovieDetail` ve `ActorDetail` gibi bileşenleri bağlar.
+- Vue uygulamasını başlatır ve `#app` ID'sine bağlar.
 
-utils.js:
-Tekrar eden işlemleri yöneten yardımcı fonksiyonları içerir (ör. yıldız derecelendirme fonksiyonu).
+### 3. `Home.js`
+- Ana sayfada film kartlarını dinamik olarak listeler.
+- Filmlere tıklanıldığında detay sayfasına yönlendirir.
 
-style.css:
-Web sitesinin görsel tasarımını ve düzenini sağlar.
-Film kartları ve detay sayfalarına özel CSS stilleri içerir.
+### 4. `MovieDetail.js`
+- Filmlerin detay bilgilerini ve oyuncularını görüntüler.
+- Film arka planını dinamik olarak film görseliyle doldurur.
 
-movie.json:
-Film ve oyuncu bilgilerini içeren veri dosyası.
+### 5. `ActorDetail.js`
+- Oyuncu detay bilgilerini (biyografi, oynadığı karakter) görüntüler.
+- Home sayfasına yönlendiren bir buton içerir.
 
-images/:
-Film ve oyuncu görsellerinin saklandığı klasör.
+### 6. `utils.js`
+- Tekrar eden işlemleri yöneten yardımcı fonksiyonları içerir (ör. yıldız derecelendirme hesaplama).
 
+### 7. `style.css`
+- Web sitesinin genel görünümünü ve tasarımını özelleştirir.
 
-Kurulum ve Kullanım
-Projeyi Klonlayın:
+### 8. `movie.json`
+- Tüm film ve oyuncu verilerini içeren veri kaynağıdır.
 
-Kodu kopyala
-git clone https://github.com/username/movie-explorer.git
-cd movie-explorer
-Gerekli Bağımlılıkları Kurun: Bu proje herhangi bir build sürecine ihtiyaç duymaz. Tarayıcınızda çalıştırabilirsiniz.
+### 9. `images/`
+- Film ve oyuncuların görsellerini depolar.
 
-JSON ve Görselleri Yerleştirin:
+---
 
-movie.json dosyasını doğru bir dizine yerleştirin.
-Görsellerinizi images klasörüne ekleyin.
-Projeyi Çalıştırın: Bir yerel sunucu başlatın. Örneğin:
+# Nasıl Çalıştırılır?
 
+1. **Projeyi Klonlayın:**
+   ```bash
+   git clone https://github.com/username/movie-explorer.git
+   cd movie-explorer
+2. **Yerel Sunucu Başlatın:**
+   ```bash
+   npx serve .
 
-Kodu kopyala
-npx serve .
-Uygulamayı Tarayıcıda Açın:
+3. **Tarayıcıda Açın:**
+   ```bash
+   http://localhost:5000
 
+  ---
+# Gelecekteki Geliştirmeler
 
-Kodu kopyala
-http://localhost:5000
+- Gerçek bir API ile veri entegrasyonu sağlanabilir.
+- Kullanıcı giriş/çıkış sistemi eklenebilir.
+- Filtreleme ve arama özellikleri geliştirilebilir.
+- Daha detaylı bir responsive tasarım uygulanabilir.
 
-Örnek Kullanım
-Ana Sayfa: Tüm filmler listelenir ve her biri tıklanabilir.
-Film Detay Sayfası: Film bilgileri ve oyuncu listesi görüntülenir.
-Oyuncu Detay Sayfası: Seçilen oyuncunun detay bilgileri ve oynadığı film bilgileri yer alır.
-
-Gelecekteki Geliştirmeler
-Kullanıcı giriş/çıkış sistemi eklenebilir.
-Gerçek bir API ile dinamik veri entegrasyonu sağlanabilir.
-Daha gelişmiş bir tasarım ve responsive özellikler eklenebilir.
+---
+# Projenin Ekran Görüntüleri:
+ <div>
+  <img src="VueMoviesProject/Preview/1.png"/>
+  <img src="VueMoviesProject/Preview/2.png"/>
+  <img src="VueMoviesProject/Preview/3.png"/>
+  <img src="VueMoviesProject/Preview/4.png"/>
+</div>
